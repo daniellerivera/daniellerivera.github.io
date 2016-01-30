@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Ph.D. student in the Fujita Lab at the University of Texas Arlington. Broadly, I study phylogenomics of tropical lizards.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+For more information, go to daniellerivera.org
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[drivera2288[at]gmail.com](mailto:drivera2288@gmail.com)
